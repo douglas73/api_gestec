@@ -2,4 +2,5 @@
 
 	$nome = "Thiago";
 	$sobrenome = "Ferreira";
-	echo "{$nome} {$sobrenome}";
+	$prefixo = "Meu nome é ";
+	echo "{$prefixo} {$nome} {$sobrenome}";
