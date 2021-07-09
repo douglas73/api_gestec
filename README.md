@@ -1,4 +1,3 @@
 # api_gestec
 # Douglas Gestec V2
-
-# Novo teste 
+Max e ??? são os novos devs do projeto.
