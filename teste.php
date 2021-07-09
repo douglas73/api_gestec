@@ -1,5 +1,5 @@
 <?php
 
-$arr = ['um', 'dois', 'tres'];
+$arr = ['um', 'dois', 'tres', 'quatro', 'cinco'];
 
 var_dump($arr);
